@@ -10,7 +10,7 @@ Adds an 'empty trash' button to all post type dashboard tables - saves you from 
 
 == Description ==
 
-"Quick Empty Trash" is a small utility plugin that saves you time when emptying the trash for any post type. It adds an 'empty trash' button to every post type's list table, so that you can empty the trash for that post type without having to load the list of trashed posts first. This helps if you have a very slow-loading dashboard or if you just feel like saving yourself an extra page load to perform a simple action.
+"Quick Empty Trash" is a small utility plugin that saves you time when emptying the trash for any post type. It adds an 'empty trash' button to every post type's list table, so that you can empty the trash for that post type without having to load the list of trashed posts first. This helps if you have a very slow-loading dashboard or if you just feel like saving yourself an extra page load in order to perform a simple action.
 
 There are no settings to configure - just activate the plugin and the button will appear for you.
 
