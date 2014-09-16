@@ -3,7 +3,7 @@ Contributors: hlashbrooke
 Donate link: http://www.hughlashbrooke.com/donate
 Tags: empty, trash, utility
 Requires at least: 3.0
-Tested up to: 3.8.1
+Tested up to: 4.0
 Stable tag: 1.0
 
 Adds an 'empty trash' button to all post type dashboard tables - saves you from needing to load the trash list before being able to empty it.
