@@ -2,12 +2,12 @@
 /*
  * Plugin Name: Quick Empty Trash
  * Version: 1.0
- * Plugin URI: http://www.hughlashbrooke.com/
+ * Plugin URI: https://wordpress.org/plugins/quick-empty-trash/
  * Description: Adds an 'empty trash' button to all post type tables - saves you from needing to load the trash list before being able to empty it.
  * Author: Hugh Lashbrooke
- * Author URI: http://www.hughlashbrooke.com/
+ * Author URI: https://hugh.blog/
  * Requires at least: 3.0
- * Tested up to: 4.0
+ * Tested up to: 5.0
  *
  * @package WordPress
  * @author Hugh Lashbrooke
